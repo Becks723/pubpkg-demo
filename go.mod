@@ -1,4 +1,4 @@
-module pubpkg-demo
+module github.com/Becks723/pubpkg-demo
 
 go 1.25.3
 
